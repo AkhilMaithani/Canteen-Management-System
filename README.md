@@ -1,9 +1,11 @@
 # Canteen-Management-System
 It is a canteen management system. 
 This project is made up of using c++ and sqlite3 .
-In this project sqlite3 embedded with c++.
+In this project sqlite3 is embedded with c++.
 
-You can run this code after installing the sqlite3 software library in your system.
+You can run this code after installing the sqlite3 software library in your system from the bellow link -:
+https://www.sqlite.org/download.html
+
 As, I made this project in Linux (Ubuntu) so for installing in ubuntu you can follow the bellow commands -:
 
 // download sqlite3 software library
