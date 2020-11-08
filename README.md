@@ -20,3 +20,13 @@ This Project consist of three files :
 1. CMS.cpp file   // main code file
 2. dbfile.h       // user defined header file
 3. canteen.db     // database file
+
+>> Username And Password to Run The project
+
+1. USERNAME : username
+2. PASSWORD : password
+
+>> In order to run the project in terminal in your system follow the command
+
+1. g++ CMS.cpp -l sqlite3
+
