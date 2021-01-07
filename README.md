@@ -5,17 +5,18 @@
 
 ## Dependencies
 * You can run this code after installing the sqlite3 software library in your system from the bellow link -:
-  [Link for that](https://www.sqlite.org/download.html)
+
+ [Click Here to move to the link page](https://www.sqlite.org/download.html)
 
 ## How to Download in linux(Ubuntu)
-* As, I made this project in *Linux (Ubuntu)* so for installing in ubuntu you can follow the bellow commands -:
+* As, I made this project in *Linux (Ubuntu)*, so for installing in ubuntu you can follow the bellow commands -:
 
 ###### Download sqlite3 software library :
 1. sudo apt update
 2. sudo apt install sqlite3
 
 ###### Checking successfull install :
-1. sqlite3
+1. Open the terminal and write **sqlite3** , if it is successfully install it will opens the sqlite3 terminal otherwise not.
 
 ## Project Details
 * This Project consist of three files :
@@ -25,12 +26,13 @@
 3. canteen.db      i.e database file
 
 
-### Username And Password to Run The project
+## Username And Password to Run The project
 
 1. USERNAME : username
 2. PASSWORD : password
 
-##### In order to run the project in terminal in your system follow the command
+## In order to run the project in terminal in your system follow the command *in linux*
 
 1. g++ CMS.cpp -l sqlite3
 
+* Don't forget to add *-l sqlite3* otherwise it will show error.
