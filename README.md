@@ -13,16 +13,12 @@
 
 ###### Download sqlite3 software library :
 
-'''bash
-
+```bash
  sudo apt update
- 
- '''
- '''bash
- 
+```
+```bash
  sudo apt install sqlite3
-
-'''
+```
 
 ###### Checking successfull install :
 
@@ -43,10 +39,8 @@
 
 ## In order to run the project in terminal in your system follow the command *in linux*
 
-'''bash
-
+```bash
  g++ CMS.cpp -l sqlite3
- 
-'''
+```
 
 * Don't forget to add *-l sqlite3* otherwise it will show error.
