@@ -9,9 +9,7 @@
 ___
 ## Dependencies
 
-* You can run this code after installing the sqlite3 software library in your system from the bellow link -:
-
- [Click Here to move to the link page](https://www.sqlite.org/download.html "https://www.sqlite.org/download.html")
+* You can run this code after installing the sqlite3 software library in your system from the bellow link -: [Click Here to move to the link page](https://www.sqlite.org/download.html "https://www.sqlite.org/download.html")
 
 ### How to Download in linux(Ubuntu)
 * As, I made this project in *Linux (Ubuntu)*, so for installing in ubuntu you can follow the bellow commands -:
