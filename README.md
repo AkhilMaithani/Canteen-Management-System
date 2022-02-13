@@ -4,9 +4,8 @@
 * This project is made up of using c++ and sqlite3 .
 * In this project sqlite3 is embedded with c++.
 
-&nbsp;
+<hr>
 
-___
 ## Dependencies
 
 * You can run this code after installing the sqlite3 software library in your system from the bellow link -: [Click Here to move to the link page](https://www.sqlite.org/download.html "https://www.sqlite.org/download.html")
@@ -27,9 +26,8 @@ ___
 
 1. Open the terminal and write **sqlite3** , if it is successfully install it will opens the sqlite3 terminal otherwise not.
 
-&nbsp;
+<hr>
 
-___
 ## Project Details
 * This Project consist of three files :
 
@@ -37,17 +35,15 @@ ___
 2. dbfile.h        i.e user defined header file
 3. canteen.db      i.e database file
 
-&nbsp;
+<hr>
 
-___
 ## Username And Password to Run The project
 
 1. USERNAME : username
 2. PASSWORD : password
 
-&nbsp;
+<hr>
 
-___
 ## In order to run the project in terminal in your system follow the command *in linux*
 
 ```bash
