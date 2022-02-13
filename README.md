@@ -3,7 +3,10 @@
 * It is a canteen management system. 
 * This project is made up of using c++ and sqlite3 .
 * In this project sqlite3 is embedded with c++.
-
+<p>
+ <img src="https://img.shields.io/badge/%20-C%2B%2B-green" alt="CPP">&nbsp;
+ <img src="https://img.shields.io/badge/%20-SQLite-red" alt="SQLite">
+</p>
 <hr>
 
 ## Dependencies
